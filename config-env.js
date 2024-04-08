@@ -1,4 +1,4 @@
-/**
+8/**
 ░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
 ░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
@@ -20,7 +20,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Enter your session-id",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~A792jaxb#gLxyWWef1Xu5j6ljvVLVrQmNjlubxipjyK7z2Iom6hk",
 BOT_NUMBER: process.env.BOT_NUMBER || "255762879057",
 PASSWORD: process.env.PASSWORD || "juma",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "jumatuu",
